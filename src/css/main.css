@@ -480,6 +480,7 @@ html {
   text-align: center;
   font-size: 24px;
   line-height: 30px;
+  font-family: NanumSquareEB, sans-serif;
 }
 .section_website .antivirus_wrap,
 .section_website .finsupport_wrap,
@@ -553,6 +554,7 @@ html {
   text-align: center;
   font-size: 24px;
   line-height: 30px;
+  font-family: NanumSquareEB, sans-serif;
 }
 .section_works .swiper {
   height: 210px;
